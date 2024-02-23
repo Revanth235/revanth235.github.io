@@ -1,0 +1,26 @@
+h4{
+    margin-top: 20px;
+    margin-left: 50px;
+    text-align: center;
+}
+
+.card{
+    margin: auto;
+    margin-top: 30px;
+    display: inline-block;
+    padding: 10px;
+    margin-right: 20px;
+    margin-left: 6%;
+}
+
+.card button{
+    border-radius: 10px;
+    padding: 9px;
+    border: none;
+    background-color: #558B69;
+}
+
+.card a{
+    text-decoration: none;
+    color: white;
+}
